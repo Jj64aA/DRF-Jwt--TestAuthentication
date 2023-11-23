@@ -1,0 +1,5 @@
+Django: A high-level Python web framework used for building web applications rapidly.
+
+Django Rest Framework (DRF): An extension for Django that makes it easier to build Web APIs. It provides serializers, views, authentication, and other tools to simplify API development.
+
+JWT (JSON Web Tokens): A standard method for securely transmitting information between parties as a JSON object. It's commonly used for authentication and contains claims to be transmitted between two parties.
